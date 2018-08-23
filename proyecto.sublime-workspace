@@ -1,0 +1,853 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ge",
+				"getImageFile"
+			],
+			[
+				"a",
+				"artists"
+			],
+			[
+				"Artit",
+				"Artist"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"A",
+				"artistId"
+			],
+			[
+				"save",
+				"saveArtist"
+			],
+			[
+				"con",
+				"consulta"
+			],
+			[
+				"get",
+				"getArtist"
+			],
+			[
+				"ima",
+				"imageFile"
+			],
+			[
+				"pat",
+				"path_file"
+			],
+			[
+				"user",
+				"users"
+			],
+			[
+				"s",
+				"send"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"u",
+				"userUpdate"
+			],
+			[
+				"fin",
+				"findByIdAndUpdate"
+			],
+			[
+				"md",
+				"md_upload"
+			],
+			[
+				"us",
+				"UserController"
+			],
+			[
+				"upd",
+				"updateUser"
+			],
+			[
+				"peso",
+				"peso2"
+			],
+			[
+				"aut",
+				"authorization"
+			],
+			[
+				"lo",
+				"loginUser"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"b",
+				"bcrypt"
+			],
+			[
+				"Us",
+				"UserShema"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"ale",
+				"alert"
+			],
+			[
+				"consul",
+				"consult5"
+			],
+			[
+				"res",
+				"responseText"
+			],
+			[
+				"tma",
+				"tmade"
+			],
+			[
+				"pesoa",
+				"pesoadecuado"
+			],
+			[
+				"geade",
+				"geade"
+			],
+			[
+				"tmade",
+				"tmade"
+			],
+			[
+				"pes",
+				"pesof"
+			],
+			[
+				"gea",
+				"geade"
+			],
+			[
+				"dos",
+				"dos"
+			],
+			[
+				"aler",
+				"alert"
+			],
+			[
+				"eda",
+				"edad"
+			],
+			[
+				"act",
+				"actividad"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"ed",
+				"edadc"
+			],
+			[
+				"resul",
+				"resultado"
+			],
+			[
+				"mysqli_qe",
+				"mysqli_query"
+			],
+			[
+				"mys",
+				"mysql_query"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"p",
+				"pesofinal"
+			],
+			[
+				"reem",
+				"reemplazo"
+			],
+			[
+				"x",
+				"xmlhttp"
+			],
+			[
+				"f",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"pala",
+				"palabra"
+			],
+			[
+				"rs",
+				"result"
+			],
+			[
+				"Reempl",
+				"reemplazar"
+			],
+			[
+				"bu",
+				"bus1"
+			],
+			[
+				"cons",
+				"constante"
+			],
+			[
+				"cprot",
+				"cproteina"
+			],
+			[
+				"cp",
+				"cproteico"
+			],
+			[
+				"doc",
+				"documento"
+			],
+			[
+				"do",
+				"documento"
+			],
+			[
+				"cf",
+				"cfarinaceo"
+			],
+			[
+				"cprote",
+				"cproteico"
+			],
+			[
+				"c",
+				"cfarinaceo"
+			],
+			[
+				"d",
+				"dgrasos"
+			],
+			[
+				"co",
+				"codigo"
+			],
+			[
+				"fec",
+				"fecha2"
+			],
+			[
+				"la",
+				"label\tTag"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"rem",
+				"reemplaced"
+			],
+			[
+				"can",
+				"cant_lip"
+			],
+			[
+				"st",
+				"strong\tTag"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"uni",
+				"unitario"
+			],
+			[
+				"un",
+				"uni"
+			],
+			[
+				"te",
+				"tel"
+			],
+			[
+				"las",
+				"lastn"
+			],
+			[
+				"h",
+				"href\tAttr"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"text",
+				"textarea\tTag"
+			],
+			[
+				"in",
+				"innerHTML"
+			],
+			[
+				"mysqli_f",
+				"mysqli_fetch_array"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"nom",
+				"nombre"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"pre",
+				"prep"
+			],
+			[
+				"prep",
+				"prep"
+			],
+			[
+				"per",
+				"pers"
+			],
+			[
+				"my",
+				"mysql_query"
+			],
+			[
+				"pe",
+				"pesofinal"
+			],
+			[
+				"ul",
+				"ul\tTag"
+			],
+			[
+				"rw",
+				"row"
+			],
+			[
+				"j",
+				"jsObj"
+			],
+			[
+				"jso",
+				"jsonText"
+			],
+			[
+				"nu",
+				"num1"
+			],
+			[
+				"nota",
+				"nota2"
+			],
+			[
+				"fecha",
+				"fechaa"
+			],
+			[
+				"masa",
+				"masac"
+			],
+			[
+				"fe",
+				"fecha1"
+			],
+			[
+				"fc",
+				"fecha2"
+			],
+			[
+				"fch",
+				"fecha1"
+			],
+			[
+				"des",
+				"desplega"
+			],
+			[
+				"ro",
+				"row"
+			],
+			[
+				"est",
+				"estatura"
+			],
+			[
+				"diet",
+				"dietalibre"
+			],
+			[
+				"n",
+				"nCantidad"
+			],
+			[
+				"whi",
+				"width"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"t",
+				"type\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp64/curso-mean2",
+		"/C/wamp64/curso-mean2/Client"
+	],
+	"file_history":
+	[
+		"/C/Users/Usuario/Desktop/Click1/JavaScript_Wilmar_Yepes/JavaScript_Wilmar_Yepes/github_url.txt",
+		"/C/Users/Usuario/Desktop/Click1/DesarrolladorJsMod1_ProyectoFinal_Johny_Driotis/js/pruebaMod1.js",
+		"/C/Users/Usuario/Desktop/Click1/Frameworks y Librerías CSS_Edgar_Lemus/Evaluacion-framework-y-librerias-css-master/github_url.txt",
+		"/C/wamp64/www/backend/client/js/index.js",
+		"/C/wamp64/www/backend/server/check_login.php",
+		"/C/wamp64/www/backend/server/conector.php",
+		"/C/wamp64/www/backend/server/create_user.php",
+		"/C/Users/Usuario/Desktop/Click1/InteractuandoConBasesDeDatos_Diego_Arvizu/InteractuandoConBasesDeDatos_Diego_Arvizu/Des_Base_Datos_PHP/eval_final.sql",
+		"/C/wamp64/www/backend/client/js/app.js",
+		"/C/wamp64/www/backend/server/update_event.php",
+		"/C/wamp64/www/backend/server/test_consult.php",
+		"/C/wamp64/www/backend/server/test_getEvents.php",
+		"/C/wamp64/www/backend/server/test_newevent.php",
+		"/C/wamp64/www/backend/server/create_events.php",
+		"/C/wamp64/www/backend/server/delete_event.php",
+		"/C/wamp64/www/backend/server/new_event.php",
+		"/C/Users/Usuario/Desktop/Click1/ECommerceC2_Diego_Quiroz/ECommerceC2_Diego_Quiroz/github_url.txt",
+		"/C/Users/Usuario/Desktop/Click1/IntroduccionaldesarrolloAndroid_Paul_Machado/EvaluacionFinal/app/src/main/java/com/entorno/nextu/evaluacionfinal/MainActivity.java",
+		"/C/Users/Usuario/Desktop/Click1/IntroduccionaldesarrolloAndroid_Paul_Machado/EvaluacionFinal/milibreria/src/main/java/com/entorno/nextu/milibreria/Pasos.java",
+		"/C/Users/Usuario/Desktop/Click1/IntroduccionaldesarrolloAndroid_Paul_Machado/EvaluacionFinal/app/src/main/AndroidManifest.xml",
+		"/C/Users/Usuario/Desktop/Click1/IntroduccionaldesarrolloAndroid_Paul_Machado/EvaluacionFinal/app/src/main/java/com/entorno/nextu/evaluacionfinal/MaterialDesing.java",
+		"/C/Users/Usuario/Documents/Next University/bd/css responsive.txt",
+		"/C/Users/Usuario/Desktop/Click1/Tarea-20180814T191914Z-001/Tarea/app/src/main/java/com/example/lianr/tarea/MainActivity.java",
+		"/C/Users/Usuario/Desktop/Click1/IntroduccionaldesarrolloAndroid_Paul_Machado/EvaluacionFinal/app/src/main/java/com/entorno/nextu/evaluacionfinal/Conseptos.java",
+		"/C/Users/Usuario/Desktop/Click1/IntroduccionaldesarrolloAndroid_Paul_Machado/EvaluacionFinal/app/src/main/java/com/entorno/nextu/evaluacionfinal/Desarrollo.java",
+		"/C/Users/Usuario/Documents/Next University/bd/introduccion al desarroloo android.txt",
+		"/C/Users/Usuario/Desktop/Click1/IntroduccionAlDesarrolloAndroid_Daniel_Martinez/MyPruebaFinal/app/src/main/java/e/daniel/mypruebafinal/MainActivity.java",
+		"/C/Users/Usuario/Desktop/Click1/IntroduccionAlDesarrolloAndroid_Daniel_Martinez/MyPruebaFinal/libreria/src/main/java/e/daniel/libreria/ClasePruebaFinal.java",
+		"/C/Users/Usuario/Desktop/Click1/Curso desarrollo web, Gonzalo Azula. (1)/Projectos, Gonzalo azula/Experiencia.html",
+		"/C/Users/Usuario/Desktop/Click1/Fernando_Bastidas_Recursos_de_Diseño/MyApplication3/app/src/main/java/com/example/fernandobastidas/myapplication/Main2Activity.java",
+		"/C/Users/Usuario/Desktop/Click1/ECommerceC3_Luis_Morales/ECommerceC3_Luis_Morales/wordpress.2018-06-20.xml",
+		"/C/Users/Usuario/Desktop/Click1/Flujos de Datos y PHP_Alessandro_Ampuero/PRYNUFPHP/wordpress.2018-08-03.xml",
+		"/C/Users/Usuario/Desktop/Click1/Flujos de Datos y PHP_Alessandro_Ampuero/PRYNUFPHP/script.sql",
+		"/C/Users/Usuario/Desktop/Click1/Fernando_Bastidas_Recursos_de_Diseño/MyApplication3/app/src/main/java/com/example/fernandobastidas/myapplication/MainActivity.java",
+		"/C/Users/Usuario/Desktop/Click1/FragmentoApp_Jhon_Criollo/FragmentoApp/app/src/main/java/com/jhonfre/fragmentoapp/Instrumento.java",
+		"/C/Users/Usuario/Desktop/Click1/FragmentoApp_Jhon_Criollo/FragmentoApp/app/src/main/java/com/jhonfre/fragmentoapp/DetalleItem.java",
+		"/C/Users/Usuario/Desktop/Click1/Node.JSParte1_Alessandro_Ampuero/PRYNUNJS1/modelos/usuarios.js",
+		"/C/Users/Usuario/Desktop/Click1/Node.JSParte1_Alessandro_Ampuero/PRYNUNJS1/rutas/rutas.js",
+		"/C/Users/Usuario/Desktop/Click1/FragmentoApp_Jhon_Criollo/FragmentoApp/app/src/main/java/com/jhonfre/fragmentoapp/MainActivity.java",
+		"/C/Users/Usuario/Desktop/Click1/Node.JSParte1_Alessandro_Ampuero/PRYNUNJS1/Servidor.js",
+		"/C/Users/Usuario/Desktop/Click1/FragmentoApp_Jhon_Criollo/FragmentoApp/app/src/main/java/com/jhonfre/fragmentoapp/Adaptador.java",
+		"/C/Users/Usuario/Desktop/Click1/Node.JSParte1_Alessandro_Ampuero/PRYNUNJS1/github_url.txt",
+		"/C/Users/Usuario/Documents/Next University/bd/Interacuando base.txt",
+		"/C/Users/Usuario/Desktop/Click1/JS.05-master/JS.05-master/index.html",
+		"/C/Users/Usuario/Desktop/Click1/InteractuandoconBasesdeDatos_Diego_quiroz/ProyectoFinalBD/Version Node.js/Mi Configuración.txt",
+		"/C/Users/Usuario/Desktop/Click1/InteractuandoconBasesdeDatos_Diego_quiroz/ProyectoFinalBD/Version Node.js/Como acceder al sistema.txt",
+		"/C/Users/Usuario/Desktop/Click1/InteractuandoconBasesdeDatos_Diego_quiroz/ProyectoFinalBD/Version Node.js/controlador/crear_usuario.js",
+		"/C/Users/Usuario/Documents/Next University/bd/php intermedio.txt",
+		"/C/Users/Usuario/Desktop/Click1/Node.JS-Parte1-Cristhian-Gutierrez/Node.JS-Parte1-Cristhian-Gutierrez/views/index.html",
+		"/C/Users/Usuario/Desktop/Click1/Node.JS-Parte1-Cristhian-Gutierrez/Node.JS-Parte1-Cristhian-Gutierrez/server.js",
+		"/C/wamp64/www/angularjs/index.html",
+		"/C/Users/Usuario/Documents/Next University/bd/generales.txt",
+		"/C/Users/Usuario/Desktop/Click1/Node.JS-Parte1-Cristhian-Gutierrez/Node.JS-Parte1-Cristhian-Gutierrez/url github.txt",
+		"/C/Users/Usuario/Desktop/Click1/Desarrollo-Web-master/Desarrollo-Web-master/InteractuandoConBD_Cristian_Ciro/server/crud.js",
+		"/C/Users/Usuario/Desktop/Click1/Desarrollo-Web-master/Desarrollo-Web-master/InteractuandoConBD_Cristian_Ciro/package.json",
+		"/C/Users/Usuario/Desktop/Click1/Desarrollo-Web-master/Desarrollo-Web-master/InteractuandoConBD_Cristian_Ciro/server/index.js",
+		"/C/Users/Usuario/Documents/Next University/bd/j quey ui  damas.txt",
+		"/C/Users/Usuario/Desktop/Click1/FrameworksYLibreriasCSS_Jorge_Romero/github_url.txt",
+		"/C/Users/Usuario/Desktop/Click1/AplicacionesMoviles_Manuel_Santofimio/github.txt",
+		"/C/Users/Usuario/Desktop/Click1/JQUI-master/JQUI-master/js/main.js",
+		"/C/Users/Usuario/Desktop/Click1/JQUI-master/JQUI-master/index.html",
+		"/C/Users/Usuario/Desktop/Click1/aplicaciones hibridas_juan_cardenas/evaluacion final/evaluacion final_3.html",
+		"/C/Users/Usuario/Desktop/Click1/ElDOMyElBOM_ProyectoFinal_Cristhian_Daza_1/js/app.js",
+		"/C/Users/Usuario/Desktop/Click1/DesarolloWeb_Daniel_lozano.zip/hoja de vida 2.html",
+		"/C/Users/Usuario/Desktop/Click1/CSSyDiseñoWebResponsive_Giancarlo_Castagnino/CSS_EvaluacionFinal/css/estilospaisajes.css",
+		"/C/Users/Usuario/Desktop/Click1/CSSyDiseñoWebResponsive_Carlos_Medina/CSSyDisenÌƒoWebResponsive_Carlos_Medina/css/misestilos.css",
+		"/C/Users/Usuario/Desktop/Click1/INTERACTUANDO_CON_BD_Wuilmen_Jimenez (1)/INTERACTUANDO_CON_BD_Wuilmen_Jimenez/NextUcodBaseAgenda_versionNode/create_user.js",
+		"/C/Users/Usuario/Desktop/Click1/examen_css/examen_css/css/paisajes.css",
+		"/C/Users/Usuario/Desktop/Click1/BOOTSTRAPBLOGMUSICAL27618/BOOTSTRAPBLOGMUSICAL27618/index.html",
+		"/C/Users/Usuario/Desktop/Click1/INTERACTUANDO_CON_BD_Wuilmen_Jimenez (1)/INTERACTUANDO_CON_BD_Wuilmen_Jimenez/github_url.txt",
+		"/C/Users/Usuario/Documents/Next University/bd/Interactuando.txt",
+		"/C/Users/Usuario/Desktop/Click1/css y diseño web responsive_Raimundo_Zuñiga.zip (2)/PROYECTO 2/github_url.txt.txt",
+		"/C/Users/Usuario/Desktop/Click1/examen_css/examen_css/css/estilos.css",
+		"/C/Users/Usuario/Desktop/Click1/INTERACTUANDO_CON_BD_Wuilmen_Jimenez (1)/INTERACTUANDO_CON_BD_Wuilmen_Jimenez/NextUcodBaseAgenda_versionNode/Instrucciones.txt",
+		"/C/Users/Usuario/Documents/Next University/bd/informacion de usuario.txt",
+		"/C/Users/Usuario/Desktop/Nuevo documento de texto.txt",
+		"/C/Users/Usuario/Desktop/Click1/FundamentosHtml_Felipe_Pava/nextu/html/link.txt",
+		"/C/Users/Usuario/Desktop/Click1/JavaScript_Robinson_Lopera/js/app.js",
+		"/C/Users/Usuario/Desktop/Click1/jQueryMobileEvaluaciónFina_Luis_Paredesl/mapas/index.html",
+		"/C/Users/Usuario/Desktop/Click1/JavaScript_Edy_Reyes/Calculadora/github_url.txt",
+		"/C/Users/Usuario/Desktop/Click1/DesarrolloWeb_Frameworks_y_Librerías_CSS_Rodrigo_Contreras/DesarrolloWeb_Frameworks_y_LibreriÌas_CSS_Rodrigo_Contreras/GitHub_url.txt",
+		"/G/SYSTEM/DEVICE.XML",
+		"/C/Users/Usuario/Desktop/Click1/Fundamentos_de_HTML_Dave_Montana/ProjectCV/github_url.txt",
+		"/C/Users/Usuario/Desktop/Click1/Javascript_Danny_Monroy/js/app.js",
+		"/C/Users/Usuario/Desktop/Click1/FundamentosDeHTML_Ricardo_Castro/Hoja de vida digital/github_url.txt",
+		"/C/Users/Usuario/Documents/Next University/bd/Calificación(Java-el inicio).txt",
+		"/C/Users/Usuario/Desktop/Click1/CSSyDiseñoWebResponsive_JoseCarlos_Aispuro/EvaluacionFinal/github_url.txt",
+		"/C/Users/Usuario/Desktop/Click1/JavaScript_El DOM y el BOM_ProyectoFinal_Cristian_Santoyo/Evaluacion Final/js/json.js",
+		"/C/Users/Usuario/Desktop/Click1/DesarrolloWeb_Cristopher_Solis/PHP/createTables.sql",
+		"/C/Users/Usuario/Desktop/Click1/readme.html",
+		"/C/Users/Usuario/Desktop/Click1/CSSyDiseñoWebResponsive_Jose_Cevallos/tarea 2/index.html",
+		"/C/Users/Usuario/Desktop/Click1/CSSyDiseñoWebResponsive_Jose_Cevallos/tarea 2/github_url.txt.txt",
+		"/C/wamp64/www/backend/server/database.php",
+		"/C/Users/Usuario/Desktop/Click1/CSSyDiseñoWebResponsive_Jose_Cevallos/tarea 2/css/estilos.css",
+		"/C/Users/Usuario/Desktop/Click1/CSS y Diseño Web Responsive_Danira_Olvera/EVALUACION FINAL/github_url/tareas.txt",
+		"/C/Users/Usuario/Desktop/Click1/interactuandoBaseDatos_heylins_guido/Agenda-master/Versión PHP/agenda_db.sql",
+		"/C/Users/Usuario/Desktop/Click1/apphibridas_Fundamentos-html_carlos_soto/github_url.txt",
+		"/C/Users/Usuario/Desktop/Click1/CSS y Diseño Web Responsive_Danira_Olvera/EVALUACION FINAL/github_url/github_url.txt",
+		"/C/Users/Usuario/Desktop/Click1/nextUexam1/Documents/nextUexam1/app/src/main/java/com/example/nextu/nextuexam1/DesarrollodeApsAvanzadas.java",
+		"/C/Users/Usuario/Desktop/Click1/nextUexam1/Documents/nextUexam1/app/src/main/java/com/example/nextu/nextuexam1/MainActivity.java",
+		"/C/Users/Usuario/Desktop/Click1/nextUexam1/Documents/nextUexam1/librerianextuexamen/src/main/java/com/example/nextu/librerianextuexamen/ListadoLibreria.java",
+		"/C/Users/Usuario/Desktop/Click1/tc.txt",
+		"/C/Users/Usuario/Desktop/Click1/FundamentosHTML_Edwin_Fonseca/FundamentosHTML_Edwin_Fonseca/github_url.txt",
+		"/C/Users/Usuario/Desktop/1.txt",
+		"/C/Users/Usuario/Desktop/Click1/CSSydiseñoweresponsive_Salvador_Rivera/CSSydiseñoweresponsive_Salvador_Rivera/paisaje.html",
+		"/C/Users/Usuario/Desktop/Click1/CSSydiseñoweresponsive_Salvador_Rivera/CSSydiseñoweresponsive_Salvador_Rivera/index.html",
+		"/C/Users/Usuario/Desktop/Click1/CSS y Diseño Web Responsive_Edgar_Gonzalez/Proyecto Unidad 2 Nextu/paisajes.html",
+		"/C/Users/Usuario/Desktop/Click1/MYT.txt",
+		"/C/Users/Usuario/Desktop/Click1/proyecto_html_oscar_munoz_next_u/proyecto_html/index_oscar.html",
+		"/C/Users/Usuario/Desktop/Click1/DesarrolloWeb_Oscar_Vinueza/bddNode/server/iniciarData.js",
+		"/C/Users/Usuario/AppData/Local/Temp/Temp1_Herramientas_Build_Systems_y_Tecnologías_Emergentes-Marco_Mautino.zip/Herramientas_Build_Systems_y_Tecnologías_Emergentes-Marco_Mautino/Pasos_a_seguir.txt",
+		"/C/Users/Usuario/Desktop/Click1/examen final css ivana ceccarello/resposivewebdesign-examencss-ivana-ceccarello/github_url.txt",
+		"/C/Users/Usuario/Desktop/Click1/DesarrolloWeb_Oscar_Vinueza/bddNode/server/servernode.js",
+		"/C/Users/Usuario/Desktop/Click1/proyecto_html_oscar_munoz_next_u/proyecto_html/experiencia.html",
+		"/C/Users/Usuario/Desktop/Click1/Tareas-en-Segundo-Plano_Yvan_Farfan/Tareas-en-Segundo-Plano_Yvan_Farfan/Mysql BD/dbTareasModel.mwb",
+		"/C/Users/Usuario/Desktop/Click1/Tareas-en-Segundo-Plano_Yvan_Farfan/Tareas-en-Segundo-Plano_Yvan_Farfan/Mysql BD/dbTareas.sql",
+		"/C/Users/Usuario/Desktop/Click1/Tareas-en-Segundo-Plano_Yvan_Farfan/Tareas-en-Segundo-Plano_Yvan_Farfan/Mysql BD/dbTareasModel.mwb.bak",
+		"/C/Users/Usuario/Desktop/Click1/JavaScript_Diana_Jimenez/PFinal/js/app.js",
+		"/C/Users/Usuario/Desktop/Click1/Fundamentoshtml_Jose_Lopez/Examen Final/github_url.txt.txt",
+		"/C/Users/Usuario/Desktop/Click1/Interactuando_con_bases_de_datos_Andres_Fonseca/Interactuando_con_bases_de_datos_Andres_Fonseca/Versión Node/server/crud.js",
+		"/C/Users/Usuario/Desktop/Click1/Interactuando_con_bases_de_datos_Andres_Fonseca/Interactuando_con_bases_de_datos_Andres_Fonseca/Versión Node/server/index.js",
+		"/C/Users/Usuario/Desktop/Click1/Interactuando_con_bases_de_datos_Andres_Fonseca/Interactuando_con_bases_de_datos_Andres_Fonseca/Versión Node/server/modelUsuarios.js",
+		"/C/Users/Usuario/Desktop/Click1/DESARROLLO-WEB-MAXX-FORERO/DESARROLLO-WEB-MAXX-FORERO/agenda_db.sql",
+		"/C/Users/Usuario/Desktop/segundp.txt",
+		"/C/Users/Usuario/Desktop/2.txt",
+		"/C/wamp64/www/Backend/server/conector.php",
+		"/C/Users/Usuario/Desktop/Click1/fundamentoshtml_oscar_muñoz/proyecto_next_u/index_oscar.html",
+		"/C/Users/Usuario/Desktop/Nuevo documento de texto (2).txt"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"query",
+			"ejecutar",
+			"consul",
+			"wp_user",
+			"wp-user",
+			"wp_us",
+			"wp_adm",
+			"admin",
+			"@",
+			"views",
+			"model",
+			"col",
+			"abri",
+			"view",
+			"video",
+			"pd-cont",
+			"pd-c",
+			"hov",
+			"hola",
+			"video",
+			"afana",
+			"data",
+			"valida",
+			"estudiantes",
+			"getson",
+			"song",
+			"fs",
+			"video",
+			"viewport",
+			"jdk",
+			"Codificação",
+			"resultado",
+			"data",
+			"eventos",
+			"pobla",
+			"poblar",
+			"artit",
+			"php",
+			"peso",
+			"recursos_a",
+			"rollo",
+			"each",
+			"view",
+			"file_path",
+			"uploa",
+			"image",
+			"row",
+			"asign",
+			"tarea",
+			"dieta",
+			"load",
+			"dietaa",
+			"alert(",
+			"alert",
+			"bus4",
+			"myfu",
+			"alert",
+			"desp",
+			"guarda",
+			"desple",
+			"guardar",
+			"peso1",
+			"valor1",
+			"guardar",
+			"Guardar",
+			"guardar e",
+			"guard",
+			"dieta",
+			"guard",
+			"alert",
+			"comp",
+			"guardar",
+			"myfunc",
+			"#",
+			"recurso",
+			"error",
+			"usuario",
+			"onloginlis",
+			"moment",
+			"loginU",
+			"200",
+			"hash",
+			"desple",
+			"alert(",
+			"alert",
+			"despl",
+			"valor1",
+			"peso1",
+			"alert",
+			"dieta",
+			"grafo",
+			"constan",
+			"car",
+			"masac",
+			"masacedit",
+			"edaded",
+			"masacedit",
+			"Error, debe ingresar todos los dato",
+			"debes ingre",
+			"alerti",
+			"users",
+			"User",
+			"car",
+			"7",
+			"pers1",
+			"myf",
+			"guarda",
+			"tma",
+			"sexo",
+			"edad",
+			"masac",
+			"reg",
+			"slide",
+			"guarda",
+			"dieta2",
+			"tasa",
+			"entro",
+			"calc",
+			" setContentView",
+			"desple",
+			"chartd",
+			"grafo",
+			"get_",
+			"get",
+			"$con",
+			"dieta",
+			"alert",
+			"grafo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "proyecto.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
